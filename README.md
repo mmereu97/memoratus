@@ -2,6 +2,8 @@
 
 **Learn any text by heart, the way you would with a sheet of paper and a ruler.** Built for learning prayers, poems or speeches, and used on my phone.
 
+<p align="center"><img src="docs/screenshot.png" width="300" alt="Memoratus: the three reading modes"></p>
+
 **Tech:** Flutter / Dart · custom text layout and painting · SharedPreferences · file_picker · share_plus · Google Fonts
 
 ---
